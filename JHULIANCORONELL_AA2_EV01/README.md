@@ -1,1 +1,0 @@
-# videojet-modulo-java
